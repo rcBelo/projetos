@@ -1,5 +1,0 @@
-root <- dep1 dep2;
-dep1 <- dep2;
-dep1 <- dep4;
-dep2 <- dep5;
-dep2 <- dep6;

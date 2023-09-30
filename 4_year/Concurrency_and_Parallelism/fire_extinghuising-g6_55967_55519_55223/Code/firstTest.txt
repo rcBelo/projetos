@@ -1,0 +1,6 @@
+
+Command to read profiler output:
+$$$ gprof extinguishing_omp gmon.out > prof_output
+
+Test used:
+./extinguishing_omp 1000 1000 1000000 2 9 18 1 29 26 3 2 3 6 4 800 25 20 2 900
